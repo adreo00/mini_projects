@@ -1,6 +1,6 @@
 # CircleUp
 
-If you would just like to view the results, you can open the [HTML file](analysis.html) without installing anything.
+If you would just like to view the results, you can open the [HTML file](https://htmlpreview.github.io/?https://github.com/adreo00/other/blob/master/analysis.html) without installing anything.
 
 ### Prerequisites
 
